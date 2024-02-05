@@ -22,5 +22,8 @@ p1 = MyClass()
 print(p1.x)
 
 
+Strings:https://www.w3schools.com/python/python_strings_methods.asp
+
+
 
 
